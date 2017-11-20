@@ -14,7 +14,7 @@ Add the following code to the head of the page:
 <?php $hitokoto = file_get_contents('https://example.com/hitokoto/'); ?>
 ```
 
-Be careful：
+Be careful：  
 You need to replace the URL address in your code with your own URL.
 
 Then insert the following code in the tag that needs to show "hitokoto":
@@ -32,7 +32,7 @@ $.post("https://example.com/hitokoto/", function(hitokoto) {
 
 Change the content tag of the second line of code to your page, and you need to output the tag of "hitokoto" text.
 
-Be careful：
+Be careful：  
 You need to replace the URL address in your code with your own URL.
 JS calls require jquery.min.js, with general themes, without re referencing.
 
