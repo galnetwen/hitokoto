@@ -2,7 +2,7 @@
 
 Download the code to the root of your domain name, unzip the folder renamed hitokoto.
 
-And then visit https://your domain/hitokoto/, you can see the effect.
+And then visit https://your domain/hitokoto/, you can see the effect.  
 Example: https://example.com/hitokoto/
 
 
