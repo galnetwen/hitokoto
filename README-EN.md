@@ -8,7 +8,7 @@ Example: https://example.com/hitokoto/
 
 #### Call server:
 
-**PHP call method:**
+**PHP call method:**  
 Add the following code to the head of the page:
 ```php
 <?php $hitokoto = file_get_contents('https://example.com/hitokoto/'); ?>
@@ -22,7 +22,7 @@ Then insert the following code in the tag that needs to show "hitokoto":
 <?php echo $hitokoto; ?>
 ```
 
-**JS call method:**
+**JS call method:**  
 Add the following code to the footer of the page:
 ```java
 $.post("https://example.com/hitokoto/", function(hitokoto) {
